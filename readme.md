@@ -3,6 +3,7 @@
 Print-Server with CUPS and AirPrint - German site
 https://www.elektronik-kompendium.de/sites/raspberry-pi/2007081.htm
 
+
 Cups Webserver will be started on RPi with port 631
 ``https://<rpi>>:631``
 
@@ -74,3 +75,4 @@ sudo make install
 
 # Issues
 1. Paper cutting seems not to work properly.
+2. and so on... :)
